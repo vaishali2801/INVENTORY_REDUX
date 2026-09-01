@@ -1,11 +1,11 @@
 import React from 'react'
 import Add from './Components/Add'
-import Stats from './Components/ProductStats'
+import ProductStats from './Components/ProductStats'
 
 const App = () => {
   return (
     <>
-      <Stats/>
+      <ProductStats/>
       <Add/>
     </>
   )
