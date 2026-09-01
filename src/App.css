@@ -1,0 +1,14 @@
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #212529
+}
+
+.box h2{
+    background-color:white ;
+    padding: 10px;
+    border-radius: 15px;
+}
